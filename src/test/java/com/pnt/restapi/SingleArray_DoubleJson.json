@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "10-12-1992",
+    "feature": "different",
+    "id": 1234,
+    "data": "my data"
+  },
+  {
+    "timestamp": "10-12-1991",
+    "feature": "different2",
+    "id": 2111,
+    "data": "my data2"
+  }
+]
